@@ -1,0 +1,5 @@
+**/build
+**/.exercism
+*.exe
+*.obj
+*.o

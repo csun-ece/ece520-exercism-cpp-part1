@@ -1,0 +1,204 @@
+{
+    "tests": [
+        {
+          "name": "hello-world",
+          "setup": "mkdir -p cpp/hello-world/build && cd cpp/hello-world/build && cmake .. -D EXERCISM_RUN_ALL_TESTS=ON",
+          "run": "cd cpp/hello-world/build && make",
+          "input": "",
+          "output": "",
+          "comparison": "included",
+          "timeout": 10,
+          "points": 5
+        },
+        {
+            "name": "lasagna",
+            "setup": "mkdir -p cpp/lasagna/build && cd cpp/lasagna/build && cmake .. -D EXERCISM_RUN_ALL_TESTS=ON",
+            "run": "cd cpp/lasagna/build && make",
+            "input": "",
+            "output": "",
+            "comparison": "included",
+            "timeout": 10,
+            "points": 5
+          },
+          {
+            "name": "last-will",
+            "setup": "mkdir -p cpp/last-will/build && cd cpp/last-will/build && cmake .. -D EXERCISM_RUN_ALL_TESTS=ON",
+            "run": "cd cpp/last-will/build && make",
+            "input": "",
+            "output": "",
+            "comparison": "included",
+            "timeout": 10,
+            "points": 5
+          },
+          {
+            "name": "log-levels",
+            "setup": "mkdir -p cpp/log-levels/build && cd cpp/log-levels/build && cmake .. -D EXERCISM_RUN_ALL_TESTS=ON",
+            "run": "cd cpp/log-levels/build && make",
+            "input": "",
+            "output": "",
+            "comparison": "included",
+            "timeout": 10,
+            "points": 5
+          },
+          {
+            "name": "raindrops",
+            "setup": "mkdir -p cpp/raindrops/build && cd cpp/raindrops/build && cmake .. -D EXERCISM_RUN_ALL_TESTS=ON",
+            "run": "cd cpp/raindrops/build && make",
+            "input": "",
+            "output": "",
+            "comparison": "included",
+            "timeout": 10,
+            "points": 5
+          },
+          {
+            "name": "pacman-rules",
+            "setup": "mkdir -p cpp/pacman-rules/build && cd cpp/pacman-rules/build && cmake .. -D EXERCISM_RUN_ALL_TESTS=ON",
+            "run": "cd cpp/pacman-rules/build && make",
+            "input": "",
+            "output": "",
+            "comparison": "included",
+            "timeout": 10,
+            "points": 5
+          },
+          {
+            "name": "freelancer-rates",
+            "setup": "mkdir -p cpp/freelancer-rates/build && cd cpp/freelancer-rates/build && cmake .. -D EXERCISM_RUN_ALL_TESTS=ON",
+            "run": "cd cpp/freelancer-rates/build && make",
+            "input": "",
+            "output": "",
+            "comparison": "included",
+            "timeout": 10,
+            "points": 5
+          },
+          {
+            "name": "vehicle-purchase",
+            "setup": "mkdir -p cpp/vehicle-purchase/build && cd cpp/vehicle-purchase/build && cmake .. -D EXERCISM_RUN_ALL_TESTS=ON",
+            "run": "cd cpp/vehicle-purchase/build && make",
+            "input": "",
+            "output": "",
+            "comparison": "included",
+            "timeout": 10,
+            "points": 5
+          },
+          {
+            "name": "interest-is-interesting",
+            "setup": "mkdir -p cpp/interest-is-interesting/build && cd cpp/interest-is-interesting/build && cmake .. -D EXERCISM_RUN_ALL_TESTS=ON",
+            "run": "cd cpp/interest-is-interesting/build && make",
+            "input": "",
+            "output": "",
+            "comparison": "included",
+            "timeout": 10,
+            "points": 5
+          },
+          {
+            "name": "ellens-alien-game",
+            "setup": "mkdir -p cpp/ellens-alien-game/build && cd cpp/ellens-alien-game/build && cmake .. -D EXERCISM_RUN_ALL_TESTS=ON",
+            "run": "cd cpp/ellens-alien-game/build && make",
+            "input": "",
+            "output": "",
+            "comparison": "included",
+            "timeout": 10,
+            "points": 5
+          },
+          {
+            "name": "troll-the-trolls",
+            "setup": "mkdir -p cpp/troll-the-trolls/build && cd cpp/troll-the-trolls/build && cmake .. -D EXERCISM_RUN_ALL_TESTS=ON",
+            "run": "cd cpp/troll-the-trolls/build && make",
+            "input": "",
+            "output": "",
+            "comparison": "included",
+            "timeout": 10,
+            "points": 5
+          },
+          {
+            "name": "making-the-grade",
+            "setup": "mkdir -p cpp/making-the-grade/build && cd cpp/making-the-grade/build && cmake .. -D EXERCISM_RUN_ALL_TESTS=ON",
+            "run": "cd cpp/making-the-grade/build && make",
+            "input": "",
+            "output": "",
+            "comparison": "included",
+            "timeout": 10,
+            "points": 5
+          },
+          {
+            "name": "doctor-data",
+            "setup": "mkdir -p cpp/doctor-data/build && cd cpp/doctor-data/build && cmake .. -D EXERCISM_RUN_ALL_TESTS=ON",
+            "run": "cd cpp/doctor-data/build && make",
+            "input": "",
+            "output": "",
+            "comparison": "included",
+            "timeout": 10,
+            "points": 5
+          },
+          {
+            "name": "atbash-cipher",
+            "setup": "mkdir -p cpp/atbash-cipher/build && cd cpp/atbash-cipher/build && cmake .. -D EXERCISM_RUN_ALL_TESTS=ON",
+            "run": "cd cpp/atbash-cipher/build && make",
+            "input": "",
+            "output": "",
+            "comparison": "included",
+            "timeout": 10,
+            "points": 5
+          },
+          {
+            "name": "rotational-cipher",
+            "setup": "mkdir -p cpp/rotational-cipher/build && cd cpp/rotational-cipher/build && cmake .. -D EXERCISM_RUN_ALL_TESTS=ON",
+            "run": "cd cpp/rotational-cipher/build && make",
+            "input": "",
+            "output": "",
+            "comparison": "included",
+            "timeout": 10,
+            "points": 5
+          },
+          {
+            "name": "difference-of-squares",
+            "setup": "mkdir -p cpp/difference-of-squares/build && cd cpp/difference-of-squares/build && cmake .. -D EXERCISM_RUN_ALL_TESTS=ON",
+            "run": "cd cpp/difference-of-squares/build && make",
+            "input": "",
+            "output": "",
+            "comparison": "included",
+            "timeout": 10,
+            "points": 5
+          },
+          {
+            "name": "trinary",
+            "setup": "mkdir -p cpp/trinary/build && cd cpp/trinary/build && cmake .. -D EXERCISM_RUN_ALL_TESTS=ON",
+            "run": "cd cpp/trinary/build && make",
+            "input": "",
+            "output": "",
+            "comparison": "included",
+            "timeout": 10,
+            "points": 5
+          },
+          {
+            "name": "luhn",
+            "setup": "mkdir -p cpp/luhn/build && cd cpp/luhn/build && cmake .. -D EXERCISM_RUN_ALL_TESTS=ON",
+            "run": "cd cpp/luhn/build && make",
+            "input": "",
+            "output": "",
+            "comparison": "included",
+            "timeout": 10,
+            "points": 5
+          },
+          {
+            "name": "hexadecimal",
+            "setup": "mkdir -p cpp/hexadecimal/build && cd cpp/hexadecimal/build && cmake .. -D EXERCISM_RUN_ALL_TESTS=ON",
+            "run": "cd cpp/hexadecimal/build && make",
+            "input": "",
+            "output": "",
+            "comparison": "included",
+            "timeout": 10,
+            "points": 5
+          },
+          {
+            "name": "allergies",
+            "setup": "mkdir -p cpp/allergies/build && cd cpp/allergies/build && cmake .. -D EXERCISM_RUN_ALL_TESTS=ON",
+            "run": "cd cpp/allergies/build && make",
+            "input": "",
+            "output": "",
+            "comparison": "included",
+            "timeout": 10,
+            "points": 5
+          }
+    ]
+}
